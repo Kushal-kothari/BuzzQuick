@@ -1,3 +1,7 @@
+
+*{
+   Box-sizing:border-box;
+}
 .headbrand a
 {
 	text-decoration: none;
@@ -63,3 +67,4 @@
 	border-radius: 5px;
 	margin: 5px;
 }
+
