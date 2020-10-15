@@ -24,15 +24,15 @@
 }
 
 .sidebar
-{
-	border-radius: 5px;
-	margin: 5px;
-	height: 590px;
+{       
+	border-radius: 15px;
+	margin: 15px;
+	height: 600px;
 }
 
 .sidebar img
 {
-	border: black;
+	border: #232323;
 }
 
 .search
@@ -55,8 +55,8 @@
 
 .main_menu
 {
-	border-radius: 5px;
-	margin: 5px;
+	border-radius: 15px;
+	margin: 05px;
 	margin-left: 5px;
 	height: 550px;
 }
